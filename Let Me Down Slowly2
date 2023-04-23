@@ -1,4 +1,13 @@
 local args = {
+    [1] = "Let Me Down Slowly Made By 1Linerar",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
     [1] = "♫this night is cold in the kingdom i can feel you fade away♫",
     [2] = "All"
 }
