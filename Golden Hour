@@ -1,0 +1,294 @@
+local args = {
+    [1] = "Golden Hour Lyrics Made By bokbubom",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "It was just two lovers",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Sittin' in the car, listening to Blonde, fallin' for each other",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Pink and orange skies, feelin' super childish, no Donald Glover",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Missed call from my mother",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Like, \"Where you at tonight?\"",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Got no alibi, I was all alone",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "With the love of my life",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "She's got glitter for skin",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "My radiant beam in the night",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "I don't need no light to see you Shine!!!!!",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "It's your golden hour!!!!",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "You slow down time!!!!!",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "In your golden hour!!!!",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "We were just two lovers",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Feet up on the dash, drivin' nowhere fast, burnin' through the summer",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Radio on blast, make the moment last, she got solar power",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Minutes feel like hours",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "She knew she was the baddest",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Can you even imagine fallin' like I did?",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "For the love of my life",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "She's got glow on her face",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "A glorious look in her eyes",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "My angel of light",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "I was all alone with the love of my life",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "She's got glitter for skin",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "My radiant beam in the night",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "I don't need no light to see you",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "Shine!!!!",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "It's your golden hour",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "You slow down time",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "In your golden hour",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
+
+wait(3)
+
+local args = {
+    [1] = "\240\159\145\145Music End\240\159\145\145",
+    [2] = "All"
+}
+
+game:GetService("ReplicatedStorage"):WaitForChild("DefaultChatSystemChatEvents"):WaitForChild("SayMessageRequest"):FireServer(unpack(args))
