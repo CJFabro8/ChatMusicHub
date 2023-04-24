@@ -1,0 +1,20 @@
+local Request = request or http_request or (http and http.request) or syn.request
+local HttpService = game:GetService("HttpService")
+
+-- URL of the file to download
+local url = "https://cdn.discordapp.com/attachments/1099954767293325352/1099957779940257854/Eric_Cartman_-_Poker_Face_Rock_Band_Version_HQ_digitally_recorded.mp3"
+
+
+-- Path and filename to save the downloaded file
+local filename = "EricCartManPokerFace.mp3"
+
+
+local success, response = pcall(Request, {Url = url})
+
+if success and response.Success then
+
+    writefile(filename, response.Body)
+    print(filename .. " downloaded successfully.")
+else
+    error("Error downloading file: " .. tostring(response))
+end
